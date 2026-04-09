@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombreCliente": "Juan Pérez",
+    "descripcion": "Pedido de prueba 1",
+    "estado": "PENDIENTE",
+    "tipoPedido": "DELIVERY",
+    "montoTotal": 100.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 2,
+    "nombreCliente": "Ana Gómez",
+    "descripcion": "Pedido de prueba 2",
+    "estado": "EN_PREPARACION",
+    "tipoPedido": "RETIRO_EN_TIENDA",
+    "montoTotal": 200.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 3,
+    "nombreCliente": "Carlos Ruiz",
+    "descripcion": "Pedido de prueba 3",
+    "estado": "EN_CAMINO",
+    "tipoPedido": "EXPRESS",
+    "montoTotal": 300.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 4,
+    "nombreCliente": "Lucía Torres",
+    "descripcion": "Pedido de prueba 4",
+    "estado": "ENTREGADO",
+    "tipoPedido": "DELIVERY",
+    "montoTotal": 400.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 5,
+    "nombreCliente": "Miguel Soto",
+    "descripcion": "Pedido de prueba 5",
+    "estado": "CANCELADO",
+    "tipoPedido": "RETIRO_EN_TIENDA",
+    "montoTotal": 500.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 6,
+    "nombreCliente": "Valeria Díaz",
+    "descripcion": "Pedido de prueba 6",
+    "estado": "PENDIENTE",
+    "tipoPedido": "EXPRESS",
+    "montoTotal": 600.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 7,
+    "nombreCliente": "Pedro Castillo",
+    "descripcion": "Pedido de prueba 7",
+    "estado": "EN_PREPARACION",
+    "tipoPedido": "DELIVERY",
+    "montoTotal": 700.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 8,
+    "nombreCliente": "Sofía Herrera",
+    "descripcion": "Pedido de prueba 8",
+    "estado": "EN_CAMINO",
+    "tipoPedido": "RETIRO_EN_TIENDA",
+    "montoTotal": 800.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 9,
+    "nombreCliente": "Diego Morales",
+    "descripcion": "Pedido de prueba 9",
+    "estado": "ENTREGADO",
+    "tipoPedido": "EXPRESS",
+    "montoTotal": 900.0,
+    "fechaPedido": "2026-04-09"
+  },
+  {
+    "id": 10,
+    "nombreCliente": "Camila Vargas",
+    "descripcion": "Pedido de prueba 10",
+    "estado": "CANCELADO",
+    "tipoPedido": "DELIVERY",
+    "montoTotal": 1000.0,
+    "fechaPedido": "2026-04-09"
+  }
+]
